@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/25/user/993201).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Малиновская] (https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
